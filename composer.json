@@ -1,4 +1,8 @@
 {
+	"name": "flolivaud/wiki-editor",
+	"description": "WikiEditor Module for MediaWiki",
+	"type": "mediawiki-extension",
+	"keywords": ["mediawiki", "wikieditor", "editor", "extension"],
 	"license": "GPL-2.0+",
 	"require-dev": {
 		"jakub-onderka/php-parallel-lint": "0.9.2",
